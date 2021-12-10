@@ -7,6 +7,8 @@ markdown (GFM)][gfm] bar chart. This script heavily relies on https://github.com
 
 So a big thank you to Titus 🎉🎉🎉!   
 
+![Example](https://github.com/robiningelbrecht/markdown-bar-chart/raw/master/example.png)
+
 ## Install
 
 ```html
