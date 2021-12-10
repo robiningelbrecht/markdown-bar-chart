@@ -4,6 +4,7 @@
 
 This is a simple function that takes an array and generates a [GitHub flavored
 markdown (GFM)][gfm] bar chart. This script heavily relies on https://github.com/wooorm/markdown-table. 
+
 So a big thank you to Titus 🎉🎉🎉!   
 
 ## Install
@@ -22,4 +23,18 @@ barChart('Chart title', [10, 20, 35], {
     'displayPercentages': false
 })
 ```
+
+## All possible options
+
+```js
+options = {
+    'character': '█',
+    'totalNumberOfBlocks': 30,
+    'emptyBlock': '&nbsp;&nbsp;&nbsp;',
+    'sortOnValue': false, // ASC or DESC
+    'displayPercentages': true
+}
+```
+
+
 
