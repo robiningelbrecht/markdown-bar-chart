@@ -18,7 +18,7 @@ So a big thank you to Titus 🎉🎉🎉!
 ## Use
 
 ```js
-// Will display a chart woth 3 bars.
+// Will display a chart with 3 bars.
 
 barChart('Chart title', [10, 20, 35], {
     'sortOnValue': 'DESC',
